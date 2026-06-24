@@ -4,7 +4,7 @@ Welcome to my personal portfolio website showcasing my work in **Data Science, D
 
 ## 🌐 Live Demo
 
-🔗 https://palak-portfolio-2026.netlify.app
+🔗 https://palak-portfolio-06.netlify.app
 
 ![Portfolio Home Page](portfolio-home.png.png)
 
@@ -62,7 +62,7 @@ Deployed on **Vercel**
 
 🐙 GitHub: https://github.com/palaktonke06-a11y
 
-🌐 Portfolio: https://palak-porfolio-1jgp.vercel.app/
+🌐 Portfolio: https://palak-portfolio-06.netlify.app
 
 📂 GitHub Repository: https://github
 
