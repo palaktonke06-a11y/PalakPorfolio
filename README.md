@@ -4,7 +4,7 @@ Welcome to my personal portfolio website showcasing my work in **Data Science, D
 
 ## 🌐 Live Demo
 
-🔗 https://palak-portfolio-06.netlify.app
+🔗 palak06.netlify.app
 
 ![Portfolio Home Page](portfolio-home.png.png)
 
