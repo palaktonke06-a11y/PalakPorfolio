@@ -64,7 +64,7 @@ Deployed on **Vercel**
 
 🌐 Portfolio: https://palak-portfolio-06.netlify.app
 
-📂 GitHub Repository: https://github
+📂 GitHub Repository: https://github.com/palaktonke06-a11y/PalakPorfolio
 
 
 
