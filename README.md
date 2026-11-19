@@ -1,70 +1,51 @@
-#  🚀 Personal Portfolio
+# 🚀 Palak Tonke | Data Analytics & AI Portfolio
 
-Welcome to my personal portfolio website showcasing my work in **Data Science, Data Analytics, Machine Learning, and Business Intelligence**.
+Welcome to my portfolio showcasing projects in **Data Analytics, Data Science, Machine Learning, and Business Intelligence**.
 
-## 🌐 Live Demo
+## 🌐 Live Portfolio
 
-🔗 https://plk-portfolio06.netlify.app
+**[Visit my portfolio](https://plk-portfolio06.netlify.app/)**
 
-![Portfolio Home Page](portfolio-home.png.png)
+Explore my dashboards, machine-learning applications, AI projects, skills, and contact information.
 
-## 👨‍💻 About
+## 👩‍💻 About
 
-I am **Palak Tonke**, a B.Tech Computer Science (Data Science) student passionate about building data-driven solutions. My interests include Data Analytics, Machine Learning, Data Visualization, and Business Intelligence.
+I am **Palak Tonke**, a B.Tech Computer Science student specializing in Data Science. I am interested in Data Analytics, Machine Learning, Data Visualization, and Business Intelligence.
 
 ## 🛠️ Skills
 
 ### Programming
-
-* Python
-* SQL
+- Python
+- SQL
 
 ### Data Science
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
 
 ### Data Analytics
+- Microsoft Excel
+- Power BI
+- KPI Reporting
+- Data Visualization
 
-* Microsoft Excel
-* Power BI
-* KPI Reporting
-* Data Visualization
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Vercel
-
-
-## ✨ Features
-
-* Responsive Portfolio Website
-* Project Showcase
-* Skills Section
-* Resume Download
-* Contact Information
-* Modern UI Design
+## ✨ Portfolio Features
+- Responsive personal portfolio
+- Featured projects and dashboards
+- GitHub repository links and available live demos
+- Skills and resume section
+- Contact information
 
 ## 🚀 Deployment
 
-Deployed on **Vercel**
+Hosted on **Netlify**: https://plk-portfolio06.netlify.app/
 
 ## 📬 Contact
 
-📧 Email: palaktonke06@gmail.com
-
-🐙 GitHub: https://github.com/palaktonke06-a11y
-
-🌐 Portfolio: https://palak-portfolio-06.netlify.app
-
-📂 GitHub Repository: https://github.com/palaktonke06-a11y/PalakPorfolio
-
-
-
+- **Email:** palaktonke06@gmail.com
+- **GitHub:** https://github.com/palaktonke06-a11y
+- **Portfolio:** https://plk-portfolio06.netlify.app/
+- **Repository:** https://github.com/palaktonke06-a11y/PalakPorfolio
