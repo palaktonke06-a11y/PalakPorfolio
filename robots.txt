@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://plk-portfolio06.netlify.app/sitemap.xml
